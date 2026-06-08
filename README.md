@@ -34,7 +34,7 @@ pip install PyQt5
 
 ## How to Run
 ```
-python v6_zkp_native.py
+python Zero-Knowledge-Proofs.py
 ```
 ---
 
